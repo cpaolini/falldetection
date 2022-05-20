@@ -1,0 +1,2 @@
+Fall data captured using Noraxon IMU sensors which recorded 183 kinematic features that measure orientation of anatomical (joint) angles and limb linear acceleration with a 200 Hz sampling rate. File is a GNU Zipped tar archive of CSV format Noraxon files.
+Ref: C. Paolini, D. Soselia, H. Baweja and M. Sarkar, "Optimal Location for Fall Detection Edge Inferencing," 2019 IEEE Global Communications Conference (GLOBECOM), Waikoloa, HI, USA, 2019, pp. 1-6. DOI: 10.1109/GLOBECOM38437.2019.9014212
