@@ -1,0 +1,26 @@
+HEADER
+VTF File Version,1.0
+VTF File Type,0
+PID,3923616
+Generated on,2024-01-27 23:20:34
+Resolution,ms
+Min Resolution,us
+Trace Version,1.0
+XRT Version,0.0.0
+Tool Version,2020.1
+
+STRUCTURE
+Group_Start,DPU
+Dynamic_Row, 1, DPU_0
+Dynamic_Row, 2, DPU_1
+Group_End,DPU
+
+MAPPING
+1,
+2,subgraph_ResNet__ResNet_AvgPool2d_avgpool__8077_fix
+
+EVENTS
+1,0,448849923.334000,1,VART_RUNNER,2,3924309,1,8.2,360.74,186,1,1,,
+3,0,448849924.381000,2,VART_RUNNER,2,3924310,1,8.2,362.48,186,1,1,,
+2,1,448849946.065000,1,VART_RUNNER,2,3924309,1,8.2,360.74,186,1,1,,
+4,3,448849947.003000,2,VART_RUNNER,2,3924310,1,8.2,362.48,186,1,1,,
