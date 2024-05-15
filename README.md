@@ -1,5 +1,9 @@
 # falldetection
 
+## Stereo Vision-Based Approach
+Click [here](stereo_vision_based/README.md) for details.
+
+## Wearables
 Using lattice iCE40 UltraPlus and caffe CBSR strucutre
 
 ## Caffe
