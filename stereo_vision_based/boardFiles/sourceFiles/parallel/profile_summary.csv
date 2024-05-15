@@ -1,0 +1,14 @@
+Profile Summary
+Generated on: 2024-01-25 17:21:10
+XRT build version: 0.0.0
+Build version branch: N/A
+Build version hash: N/A
+Build version date: N/A
+Target devices: N/A
+
+DPU Summary
+Kernel Name,Number Of Runs,CU Full Name,Minimum Time (ms),Average Time (ms),Maximum Time (ms),Workload(GOP),DPU Performance(GOP/s),Mem IO(MB),Mem Bandwidth(MB/s),
+subgraph_YOLOX__YOLOX_YOLOPAFPN_backbone__BaseConv_bu_conv1__Conv2d_conv__input_311,173,DPU_0:batch-1,60.354,60.628,64.672,26.029,82.735,88.500,1462.793,
+subgraph_A2J_model__A2J_model_ClassificationModel_classificationModel__Conv2d_conv1__input_303,125,DPU_1:batch-1,102.430,103.624,106.086,33.083,61.455,211.260,2040.633,
+vart::TensorBuffer::copy_tensor_buffer,1192,CPU,0.071,1.357,59.516,
+

@@ -1,0 +1,34 @@
+{
+    "schema_version": {
+        "major": "1",
+        "minor": "3",
+        "patch": "0"
+    },
+    "generation": {
+        "this_file": "\/home\/root\/sourceFiles\/xrt.run_summary",					
+        "source": "vp",
+        "PID": "29462",
+        "timestamp": "1704236299529",
+        "flags": [
+            ""
+        ]
+    },
+    "files": [
+        {
+            "name": "profile_summary.csv",
+            "type": "PROFILE"
+        },
+        {
+            "name": "vitis_ai_profile.csv",
+            "type": "VITIS_AI_PROFILE"
+        },
+        {
+            "name": "vart_trace.csv",
+            "type": "VP_TRACE"
+        },
+        {
+            "name": "summary.csv",
+            "type": "PROFILE_SUMMARY"
+        }
+    ]
+}
